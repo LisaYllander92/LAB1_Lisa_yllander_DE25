@@ -1,8 +1,8 @@
->seq1
-cgtaaccaataaaaaaacaagcttaacctaattc
->seq2
-agcttagtttggatctggccgggg
->seq3
-gcggatttactccccccaaaaannaggggagagcccagataaatggagtctgtgcgtccaca
->seq4
-gcggatttactcaggggagagcccagggataaatggagtctgtgcgtccaca
+">SEQ1
+CGTAACCAATAAAAAAACAAGCTTAACCTAATTC
+>SEQ2
+AGCTTAGTTTGGATCTGGCCGGGG
+>SEQ3
+GCGGATTTACTCCCCCCAAAAANNAGGGGAGAGCCCAGATAAATGGAGTCTGTGCGTCCACA
+>SEQ4
+GCGGATTTACTCAGGGGAGAGCCCAGGGATAAATGGAGTCTGTGCGTCCACA
